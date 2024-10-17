@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xd-Park3rr
-- 👀 I’m interested in Software Penetration
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Javascript (React) and C#
 - 📫 How to reach me: {
        Discord : Park3r#1117
        }
