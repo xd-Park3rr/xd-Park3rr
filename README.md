@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xd-Park3rr
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Javascript (React) and C#
+- 🌱 I’m currently learning NextJS and Rust
 - 📫 How to reach me: {
        Discord : Park3r#1117
        }
